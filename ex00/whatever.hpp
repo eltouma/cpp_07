@@ -6,13 +6,15 @@
 /*   By: eltouma <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/27 13:22:42 by eltouma           #+#    #+#             */
-/*   Updated: 2024/11/27 14:16:53 by eltouma          ###   ########.fr       */
+/*   Updated: 2024/11/27 17:06:18 by eltouma          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #pragma once
 
 #include <iostream>
+#include <cstdlib>
+#include <string>
 
 template <class T>
 void	swap(T &a, T &b)
