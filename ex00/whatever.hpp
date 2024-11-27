@@ -6,13 +6,14 @@
 /*   By: eltouma <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/27 13:22:42 by eltouma           #+#    #+#             */
-/*   Updated: 2024/11/27 17:06:18 by eltouma          ###   ########.fr       */
+/*   Updated: 2024/11/27 19:54:22 by eltouma          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #pragma once
 
 #include <iostream>
+#include <iomanip>
 #include <cstdlib>
 #include <string>
 
