@@ -6,7 +6,7 @@
 /*   By: eltouma <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/27 21:17:03 by eltouma           #+#    #+#             */
-/*   Updated: 2024/11/28 16:34:15 by eltouma          ###   ########.fr       */
+/*   Updated: 2024/11/28 16:56:55 by eltouma          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -70,7 +70,7 @@ int	main(void)
 	int	emptyArray[] = {};
 
 	std::string roiLoth[] = {"Vous etes chevalier je suis roi...", "Je vous demande de venir,", "vous venez et puis c'est tout"};
-	const char *leodagan[] = {"Moi j'ai apppris a lire, ", "ben je souaite ça personne"};
+	const char *leodagan[] = {"Moi j'ai apppris a lire,", "ben je souaite ça personne"};
 
 	draw_tab("Print function");
 	iter(array, 4, print<int>);
